@@ -2,21 +2,19 @@
 Application web dans laquelle les utilisateurs peuvent ajouter leurs sauces préférées et liker ou disliker les sauces ajoutées par les autres.
 -----------------------------------------------
 HOT TAKES
+
 Installation
-Here are the dependancies you need to install:
 
-NodeJS 12.14 or 14.0.
-Angular CLI 7.0.2.
-node-sass : make sure to use the corresponding version to NodeJS. For Noe 14.0 for instance, you need node-sass in version 4.14+.
-On Windows, these installations require to use PowerShell in administrator mode.
+Etapes:
 
-Then, clone this repo, run npm install, and run npm install --save-dev run-script-os.
+Cloné la partie Frontend;
+Backend: création d’un dossier Backend;
+Création de fichiers server.js et .gitignore ; 
+Initialisation de projet et création d’un server node (npm init, npm install –g nodemon, nodemon server) ;
+Installation de framework Express;
+Création de fichier app.js;
+Npm run start,
+Installation de Mongoose(npm install mongoose) et unique validator;
+Installation de bcrypt(hash) et jsonwebtoken;
+Création d’un compte mongodb
 
-Usage
-Run npm start. This should both run the local server and launch your browser.
-
-If your browser fails to launch, or shows a 404 error, navigate your browser to http://localhost:8080.
-
-The app should reload automatically when you make a change to a file.
-
-Use Ctrl+C in the terminal to stop the local server.
