@@ -21,3 +21,4 @@ Installation de Mongoose(npm install mongoose) et unique validator;
 Installation de bcrypt(hash) et jsonwebtoken;
 Création d’un compte mongodb
 
+<img width="1263" height="682" alt="image" src="https://github.com/user-attachments/assets/a4282828-466e-454a-9d1c-51c55bf7eb48" />
