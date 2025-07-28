@@ -1,5 +1,8 @@
 # API-Piquante Hot Takes
+
 Application web dans laquelle les utilisateurs peuvent ajouter leurs sauces préférées et liker ou disliker les sauces ajoutées par les autres.
+exigences en matière de sécurité sont respectées. Tous les mots de passe des utilisateurs recueillis par l'application sont protégés
+
 -----------------------------------------------
 HOT TAKES
 
